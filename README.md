@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi! :sunglasses:
 
-<!--
-**serhii-devrel/serhii-devrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Serhii and I'm a Software Engineer!
 
-Here are some ideas to get you started:
+- 🇺🇦 I’m from Ukraine (Dnipro)
+- :mortar_board: I have a degree in System Analysis 
+-  :dizzy: Front-end Enthusiast
+- 📚 Active writer on Medium
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :wave: Connect with me:
+
+[<img alt="instagram | Instagram" src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=fff" />][instagram]
+[<img alt="facebook | Instagram" src="https://img.shields.io/badge/FACEBOOK-1DA1F2?style=for-the-badge&logo=facebook&logoColor=fff" />][facebook]
+[<img alt="twitter | Instagram" src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=fff" />][twitter]
+[<img alt="medium | Instagram" src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=fff" />][medium]
+
+[instagram]: https://www.instagram.com/serhii.devrel/
+[facebook]: https://www.facebook.com/serhii.devrel
+[twitter]: https://twitter.com/serhii_devrel
+[medium]: https://medium.com/@serhii.devrel
